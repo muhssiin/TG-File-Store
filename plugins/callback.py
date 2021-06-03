@@ -22,9 +22,8 @@ async def help_cb(c, m):
 
 ★ Join Main Channel
 
-**You can use me in channel too 😉**
+**🅼🅲🆄🅱🅴🅼🅴🅳🅸🅰 😉**
 
-★ Make me admin in your channel with edit permission. Thats enough now continue uploading files in channel i will edit all posts and add share able link url buttons"""
 
     # creating buttons
     buttons = [
