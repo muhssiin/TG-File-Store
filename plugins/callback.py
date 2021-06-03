@@ -24,6 +24,8 @@ async def help_cb(c, m):
 
 **🅼🅲🆄🅱🅴🅼🅴🅳🅸🅰 😉**
 
+"""
+
 
     # creating buttons
     buttons = [
